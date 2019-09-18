@@ -1,0 +1,9 @@
+isql -u sys -p manager -s DB01 < 6.start_src_rep1.sql 
+isql -u sys -p manager -s DB02 < 6.start_src_rep2.sql 
+isql -u sys -p manager -s DB03 < 6.start_src_rep3.sql 
+isql -u sys -p manager -s DB04 < 6.start_src_rep4.sql 
+isql -u sys -p manager -s DB05 < 6.start_src_rep5.sql 
+isql -u sys -p manager -s DB06 < 6.start_src_rep6.sql 
+isql -u sys -p manager -s DB07 < 6.start_src_rep7.sql 
+isql -u sys -p manager -s DB08 < 6.start_src_rep8.sql 
+isql -u sys -p manager -s DB09 < 6.start_src_rep9.sql 

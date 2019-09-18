@@ -1,0 +1,9 @@
+isql -u sys -p manager -s DB01 < 4.crt_src_rep1.sql
+isql -u sys -p manager -s DB02 < 4.crt_src_rep2.sql
+isql -u sys -p manager -s DB03 < 4.crt_src_rep3.sql
+isql -u sys -p manager -s DB04 < 4.crt_src_rep4.sql
+isql -u sys -p manager -s DB05 < 4.crt_src_rep5.sql
+isql -u sys -p manager -s DB06 < 4.crt_src_rep6.sql
+isql -u sys -p manager -s DB07 < 4.crt_src_rep7.sql
+isql -u sys -p manager -s DB08 < 4.crt_src_rep8.sql
+isql -u sys -p manager -s DB09 < 4.crt_src_rep9.sql

@@ -1,0 +1,10 @@
+isql -u sys -p manager -s DB01 -f 1.crtuser.sql
+isql -u sys -p manager -s DB02 -f 1.crtuser.sql
+isql -u sys -p manager -s DB03 -f 1.crtuser.sql
+isql -u sys -p manager -s DB04 -f 1.crtuser.sql
+isql -u sys -p manager -s DB05 -f 1.crtuser.sql
+isql -u sys -p manager -s DB06 -f 1.crtuser.sql
+isql -u sys -p manager -s DB07 -f 1.crtuser.sql
+isql -u sys -p manager -s DB08 -f 1.crtuser.sql
+isql -u sys -p manager -s DB09 -f 1.crtuser.sql
+isql -u sys -p manager -s DB10 -f 1.crtuser.sql

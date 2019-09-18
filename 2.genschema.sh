@@ -1,0 +1,10 @@
+isql -u SMSSUSER -p SMSSUSER -s DB01 -f 2.schema.sql
+isql -u SMSSUSER -p SMSSUSER -s DB02 -f 2.schema.sql
+isql -u SMSSUSER -p SMSSUSER -s DB03 -f 2.schema.sql
+isql -u SMSSUSER -p SMSSUSER -s DB04 -f 2.schema.sql
+isql -u SMSSUSER -p SMSSUSER -s DB05 -f 2.schema.sql
+isql -u SMSSUSER -p SMSSUSER -s DB06 -f 2.schema.sql
+isql -u SMSSUSER -p SMSSUSER -s DB07 -f 2.schema.sql
+isql -u SMSSUSER -p SMSSUSER -s DB08 -f 2.schema.sql
+isql -u SMSSUSER -p SMSSUSER -s DB09 -f 2.schema.sql
+isql -u SMSSUSER -p SMSSUSER -s DB10 -f 2.schema.sql
